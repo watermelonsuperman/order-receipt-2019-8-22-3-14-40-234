@@ -1,8 +1,9 @@
 package org.katas.refactoring;
 
-import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
+
+import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
